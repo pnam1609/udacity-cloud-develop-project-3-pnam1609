@@ -15,7 +15,7 @@ spec:
         app: reverseproxy
     spec:
       containers:
-      - image: pnam1609/udagram-reverseproxy:v1
+      - image: pnam16091999/udagram-reverseproxy:v1
         name: reverseproxy
         imagePullPolicy: Always          
         resources:
